@@ -1,6 +1,6 @@
 <!-- 顶部打字机动效横幅 -->
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/lfzkoala">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Cryptographer+%F0%9F%94%90+%2B+AI+Tinkerer+%F0%9F%A4%96;Building+weird+things+at+the+edge+of+crypto+%26+LLMs;Probably+vibe-coding+right+now..." alt="Typing SVG" />
   </a>
 </div>
@@ -14,11 +14,10 @@
       
 ### 🧬 About Me
 
-🔐 **By training:** Cryptographer — zero-knowledge proofs, lattice crypto, the usual suspects  
+🔐 **By training:** Cryptographer — multiparty computation, zero-knowledge proofs, blockchain, post-quantum
 🤖 **By obsession:** Exploring what happens when AI agents get real tools  
 🧪 **Current mode:** Vibe-coding experiments faster than I can document them  
-📍 **Based in:** [Your City]  
-☕ **Fueled by:** Coffee and an unhealthy amount of curiosity  
+☕ **Fueled by:** An unhealthy amount of curiosity  
 
 > *"If it can be automated by an LLM with the right tools, it probably should be — at least once, just to see what happens."*
 
@@ -52,33 +51,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logoColor=white)
 
-</div>
-
----
-
-<!-- 统计卡片区 -->
-<h2 align="center">📊 The Numbers</h2>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-<!-- 贡献图贪吃蛇动画 -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
