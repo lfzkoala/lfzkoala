@@ -47,6 +47,7 @@
 <!-- 当前在做的项目 -->
 <h2 align="center">🚀 Current Experiments/Projects</h2>
 
+- **[InvestNote]()** - A notebook for you to record investment idea.
 - **[koalaMA](https://github.com/lfzkoala/koalaMA)** - A comprehensive cryptocurrency market intelligence platform for quantitative trading decisions.
 - **[Sakan](https://github.com/lfzkoala/Sakan)** - toolkit for finding and tracking housing in Dubai
 - **[EvolPal](https://github.com/lfzkoala/EvolPal)** - a local-first framework for raising personal AI agents that evolve through interaction, evidence, and user-confirmed growth
