@@ -2,7 +2,7 @@
       
 ### 🧬 About Me
 
-🔐 **By training:** Cryptographer — multiparty computation, zero-knowledge proofs, blockchain, post-quantum
+🔐 **By training:** Cryptographer — multiparty computation, zero-knowledge proofs, obfuscation, blockchain, post-quantum
 
 🤖 **By obsession:** Exploring what happens when AI agents get real tools  
 
